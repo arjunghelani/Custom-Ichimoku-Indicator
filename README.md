@@ -37,19 +37,19 @@ For both intervals, a buy/sell signal is held if any two of the corresponding co
 - The weighted moving average of n is calculated across 12 periods (ema_n)
 - If ema_n > 0.5, then the position is held
 
-  This additional condition allows the 5-minute strategy to mitigate potential dramatic losses by integrating the momentum of signal strength into decision-making.
+This additional condition allows the 5-minute strategy to mitigate potential dramatic losses by integrating the momentum of signal strength into decision-making.
 
-  ## Backtesting
+## Backtesting
 
-  Backtesting is performed on the indicator for both 5-minute and 4-hour intervals across roughly a two-year span.
+Backtesting is performed on the indicator for both 5-minute and 4-hour intervals across roughly a two-year span.
 
-  4-Hour Window
+4-Hour Window
 
-  <img width="1427" alt="Screen Shot 2024-08-05 at 1 11 33 PM" src="https://github.com/user-attachments/assets/62c8a544-0a7b-4d03-9c79-83a641d81557">
+<img width="1427" alt="Screen Shot 2024-08-05 at 1 11 33 PM" src="https://github.com/user-attachments/assets/62c8a544-0a7b-4d03-9c79-83a641d81557">
 
-  5-Minute Window
-  
-  <img width="1428" alt="Screen Shot 2024-08-05 at 1 11 56 PM" src="https://github.com/user-attachments/assets/f6d60790-9b6d-4301-968d-0049b348117c">
+5-Minute Window
+
+<img width="1428" alt="Screen Shot 2024-08-05 at 1 11 56 PM" src="https://github.com/user-attachments/assets/f6d60790-9b6d-4301-968d-0049b348117c">
 
 
 
