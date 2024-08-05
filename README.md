@@ -12,10 +12,12 @@ There are five metrics calculated in the Ichimoku:
 - Lagging Span (Chikou Span) –– Close price plotted 26 periods back
 
 The <i> Cloud </i> represents the area between Senkou Span A and Senkou Span B.
+<\n>
 
 <img width="980" alt="Screen Shot 2024-08-05 at 12 23 33 PM" src="https://github.com/user-attachments/assets/be35b885-f35c-4867-90be-0534ec7dc16b">
 
 ## Enter Strategy
+
 
 A buy signal is orchestrated when the four following conditions are met:
 - Senkou Span A > Senkou Span B
@@ -41,8 +43,14 @@ For both intervals, a buy/sell signal is held if any two of the corresponding co
 
   Backtesting is performed on the indicator for both 5-minute and 4-hour intervals across roughly a two-year span.
 
-  <file:///Users/arjun/Desktop/FOREX/FullIchimoku.html>
+  4-Hour Window
+
+  <img width="1427" alt="Screen Shot 2024-08-05 at 1 11 33 PM" src="https://github.com/user-attachments/assets/62c8a544-0a7b-4d03-9c79-83a641d81557">
+
+  5-Minute Window
   
+  <img width="1428" alt="Screen Shot 2024-08-05 at 1 11 56 PM" src="https://github.com/user-attachments/assets/f6d60790-9b6d-4301-968d-0049b348117c">
+
 
 
 
