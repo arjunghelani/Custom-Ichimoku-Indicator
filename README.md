@@ -12,7 +12,7 @@ There are five metrics calculated in the Ichimoku:
 - Lagging Span (Chikou Span) –– Close price plotted 26 periods back
 
 The <i> Cloud </i> represents the area between Senkou Span A and Senkou Span B.
-<\n>
+
 
 <img width="980" alt="Screen Shot 2024-08-05 at 12 23 33 PM" src="https://github.com/user-attachments/assets/be35b885-f35c-4867-90be-0534ec7dc16b">
 
