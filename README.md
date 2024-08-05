@@ -11,7 +11,7 @@ There are five metrics calculated in the Ichimoku:
 - Leading Span B (Senkou Span B)
 - Lagging Span (Chikou Span)
 
-<img width="980" alt="Screen Shot 2024-08-05 at 12 23 33 PM" src="https://github.com/user-attachments/assets/be35b885-f35c-4867-90be-0534ec7dc16b">
+![plot][<img width="980" alt="Screen Shot 2024-08-05 at 12 23 33 PM" src="https://github.com/user-attachments/assets/be35b885-f35c-4867-90be-0534ec7dc16b">]
 
 
 
