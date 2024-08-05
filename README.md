@@ -5,11 +5,11 @@ This project leverages the Ichimoku Cloud to identify and understand trends in t
 ## Introduction
 
 There are five metrics calculated in the Ichimoku:
-- Conversion Line (Tenkan Sen) --> 9-period midpoint
-- Base Line (Kijun Sen) --> 26-period midpoint
-- Leading Span A (Senkou Span A) --> Average of Tenkan Sen & Kijun Sen, plotted 26 periods ahead
-- Leading Span B (Senkou Span B) --> 52-period midpoint plotted 26 periods ahead
-- Lagging Span (Chikou Span) --> Close price plotted 26 periods back
+- Conversion Line (Tenkan Sen) –– 9-period midpoint
+- Base Line (Kijun Sen) –– 26-period midpoint
+- Leading Span A (Senkou Span A) –– Average of Tenkan Sen & Kijun Sen, plotted 26 periods ahead
+- Leading Span B (Senkou Span B) –– 52-period midpoint plotted 26 periods ahead
+- Lagging Span (Chikou Span) –– Close price plotted 26 periods back
 
 The <i> cloud </i> represents the area between Senkou Span A and Senkou Span B.
 
