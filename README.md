@@ -43,11 +43,11 @@ This additional condition allows the 5-minute strategy to mitigate potential dra
 
 Backtesting is performed on the indicator for both 5-minute and 4-hour intervals across roughly a two-year span.
 
-4-Hour Window
+4-Hour Window (Jan 2022 – Jan 2024)
 
 <img width="1427" alt="Screen Shot 2024-08-05 at 1 11 33 PM" src="https://github.com/user-attachments/assets/62c8a544-0a7b-4d03-9c79-83a641d81557">
 
-5-Minute Window
+5-Minute Window (June 2022 – June 2024)
 
 <img width="1427" alt="Screen Shot 2024-08-05 at 1 14 38 PM" src="https://github.com/user-attachments/assets/031f6885-8eab-4fc6-8904-3fd6674a427e">
 
