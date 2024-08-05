@@ -49,7 +49,7 @@ Backtesting is performed on the indicator for both 5-minute and 4-hour intervals
 
 5-Minute Window
 
-<img width="1428" alt="Screen Shot 2024-08-05 at 1 11 56 PM" src="https://github.com/user-attachments/assets/f6d60790-9b6d-4301-968d-0049b348117c">
+<img width="1427" alt="Screen Shot 2024-08-05 at 1 14 38 PM" src="https://github.com/user-attachments/assets/031f6885-8eab-4fc6-8904-3fd6674a427e">
 
 
 
