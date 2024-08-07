@@ -50,12 +50,23 @@ Backtesting is performed on the indicator for both 5-minute and 4-hour intervals
 
 <img width="1427" alt="Screen Shot 2024-08-05 at 1 14 38 PM" src="https://github.com/user-attachments/assets/031f6885-8eab-4fc6-8904-3fd6674a427e">
 
-Leveraging results from both intervals concludes the following statistics (5-minute, 4-hour):
+Leveraging results from both intervals concludes the following statistics (4-hour, 5-minute):
 
-- Estimated Annual Return: 21.02%, 15.06%
-- Sharpe Ratio: 1.97, 1.74
-- Maximum Drawdown: -5%, -3%
-- Profit Factor: 1.95, 6.77
+- Estimated Annual Return: 15.06%, 21.02%
+- Sharpe Ratio: 1.74, 1.97
+- Sortino Ratio: 3.50, 4.23
+- Calmar Ratio: 3.75, 3.03
+- Maximum Drawdown: -3%, -5%
+- Profit Factor: 6.77, 1.95
+
+## How to Use
+
+`load.py` – contains code to create Ichimoku metrics and pre-process data frames
+`backtest.py` – contains trading logic and plotting functions
+`main.py` – aggregates all functions 
+
+Change the CSV file in `load.py` to your specific data. Run > python main.py < in the command line to apply the indicator 
+  
 
 
 
