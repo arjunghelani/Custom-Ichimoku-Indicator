@@ -18,7 +18,6 @@ The <i> Cloud </i> represents the area between Senkou Span A and Senkou Span B.
 
 ## Enter Strategy
 
-
 A buy signal is orchestrated when the four following conditions are met:
 - Senkou Span A > Senkou Span B
 - Tenkan Sen > Kijun Sen
@@ -45,7 +44,7 @@ Backtesting is performed on the indicator for both 5-minute and 4-hour intervals
 
 4-Hour Window (Jan 2022 – Jan 2024)
 
-<img width="1426" alt="Screen Shot 2024-08-07 at 11 43 11 AM" src="https://github.com/user-attachments/assets/9bdc5f39-2789-48fb-a6cb-b76adab88311">
+<img width="1425" alt="Screen Shot 2024-08-07 at 11 43 49 AM" src="https://github.com/user-attachments/assets/f44cbb7a-acf4-48a4-b538-8dfcb3d19943">
 
 5-Minute Window (June 2022 – June 2024)
 
