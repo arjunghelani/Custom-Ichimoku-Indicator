@@ -45,18 +45,20 @@ Backtesting is performed on the indicator for both 5-minute and 4-hour intervals
 
 4-Hour Window (Jan 2022 – Jan 2024)
 
-<img width="1427" alt="Screen Shot 2024-08-05 at 1 11 33 PM" src="https://github.com/user-attachments/assets/62c8a544-0a7b-4d03-9c79-83a641d81557">
+<img width="1426" alt="Screen Shot 2024-08-07 at 11 43 11 AM" src="https://github.com/user-attachments/assets/9bdc5f39-2789-48fb-a6cb-b76adab88311">
 
 5-Minute Window (June 2022 – June 2024)
 
 <img width="1427" alt="Screen Shot 2024-08-05 at 1 14 38 PM" src="https://github.com/user-attachments/assets/031f6885-8eab-4fc6-8904-3fd6674a427e">
 
-Results from the backtesting show that the 4-hour interval produces less volatility on a trade-to-trade basis but less total profit during the two years when compared to the 5-minute interval. Leveraging results from both intervals concludes the following statistics:
+Leveraging results from both intervals concludes the following statistics (5-minute, 4-hour):
 
-- Estimated Annual Return: 17.6%
-- Estimated Hold Annual Return: 6.8%
-- Win Rate: 45.7%
-- Total Trades (5-minute, 4-hour): 267 (196, 71)
+- Estimated Annual Return: 21.02%, 15.06%
+- Sharpe Ratio: 1.97, 1.74
+- Maximum Drawdown: -5%, -3%
+- Profit Factor: 1.95, 6.77
+
+
 
 
 
