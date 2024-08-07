@@ -61,11 +61,11 @@ Leveraging results from both intervals concludes the following statistics (4-hou
 
 ## How to Use
 
-`load.py` – contains code to create Ichimoku metrics and pre-process data frames
-`backtest.py` – contains trading logic and plotting functions
-`main.py` – aggregates all functions 
+`load.py` – contains code to create Ichimoku metrics and pre-process data frames (<br>)
+`backtest.py` – contains trading logic and plotting functions (<br>)
+`main.py` – aggregates all functions (<br>)
 
-Change the CSV file in `load.py` to your specific data. Run > python main.py < in the command line to apply the indicator 
+Change the CSV file in `load.py` to your specific data. Run _python main.py_ in the command line to apply the indicator 
   
 
 
